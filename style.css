@@ -1,0 +1,56 @@
+
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d2e5f2;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 7.5px;
+  padding-top: 7.5px;
+  border: 3px solid black;
+  border-radius:25px ;
+  
+  
+}
+
+nav ul{
+  color: black;
+  display: flex;
+}
+
+nav li{
+  list-style: none;
+  text-align:center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+nav a{
+  text-decoration:none;
+  font-style: strong;
+  color: black;
+  font-size: 22.5px ;
+}
+
+h1,.about,.contact{
+  text-align:center;
+}
+
+.homei img{
+  border: 5px solid black;
+  border-radius: 250px;
+
+}
+
+.gamep{
+  font-size: 25px;
+  margin-top: -25px;
+  margin-bottom: -25px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
